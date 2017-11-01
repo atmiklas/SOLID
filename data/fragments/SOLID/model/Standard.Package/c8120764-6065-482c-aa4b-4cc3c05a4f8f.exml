@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Geometry Service" version="4">
+  <OBJECT>
+    <ID name="Geometry Service" mc="Standard.Package" uid="c8120764-6065-482c-aa4b-4cc3c05a4f8f"/>
+    <PID name="SOLID" mc="Standard.Project" uid="6245aab9-41c7-4323-af25-af2262142e10"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Geometry Service]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

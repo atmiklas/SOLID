@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SOLID" version="4">
+  <OBJECT>
+    <ID name="SOLID" mc="Infrastructure.DiagramSet" uid="32026ef8-9ab6-441d-afe7-5b8751e8d9ea"/>
+    <PID name="SOLID" mc="Standard.Project" uid="6245aab9-41c7-4323-af25-af2262142e10"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[SOLID]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
